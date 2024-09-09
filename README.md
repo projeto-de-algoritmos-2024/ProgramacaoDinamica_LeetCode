@@ -35,13 +35,15 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 **Caso 1:**
 
+![](images/1.png)<br>
+
 ![](https://github.com/user-attachments/assets/91106950-56c9-4e3f-9bbe-35f912051a68)<br>
 
 ### [87. Scramble String](https://leetcode.com/problems/scramble-string/description/?envType=problem-list-v2&envId=dynamic-programming)
 
 **Caso 1:**
 
-![](images/1.png)<br>
+![](images/2.png)<br>
 
 **Linguagem**: Python3 <br>
 
