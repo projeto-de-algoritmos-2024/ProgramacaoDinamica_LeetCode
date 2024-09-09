@@ -1,4 +1,4 @@
-# 10. Regular Expression Matching
+# [87. Scramble String](https://leetcode.com/problems/scramble-string/description/?envType=problem-list-v2&envId=dynamic-programming)
 
 Given an input string `s` and a pattern `p`, implement regular expression matching with support for `.` and `*` where:
 
