@@ -27,7 +27,7 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 ## Vídeo
 
-[Vídeo aqui]()
+[Vídeo aqui](https://youtu.be/UbKzo-iD_xw)
 
 ## Screenshots
 
